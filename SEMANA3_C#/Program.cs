@@ -10,7 +10,7 @@ namespace SEMANA3_C_
     {
         static void Main(string[] args)
         {
-            ejercicio1();
+            ejercicio3();
             Console.ReadKey();
 
 
@@ -67,7 +67,15 @@ namespace SEMANA3_C_
         }
         static void ejercicio4()
         {
+            //Declarar variables
+            double Num, Raiz, elevar, cubica;
+            int redondeo;
 
+            Console.WriteLine("Buen día, Ingrese un número decimal: ");
+            Num = Convert.ToDouble(Console.ReadLine());
+
+            Raiz = Math.Sqrt(Num);
+            
         }
         static void ejercicio5()
         {

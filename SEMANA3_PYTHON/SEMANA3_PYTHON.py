@@ -37,6 +37,8 @@ def ejercicio5():
     print("Resto: ", (entero%2))
     print("División: ", (entero/3))
 
+def ejercicio6():
+    ki
 ejercicio5()
 
     

@@ -10,7 +10,7 @@ namespace SEMANA3_C_
     {
         static void Main(string[] args)
         {
-            ejercicio3();
+            ejercicio4();
             Console.ReadKey();
 
 
@@ -75,6 +75,14 @@ namespace SEMANA3_C_
             Num = Convert.ToDouble(Console.ReadLine());
 
             Raiz = Math.Sqrt(Num);
+            redondeo = (int)Math.Round(Num);
+            elevar = Math.Pow(Num, 3);
+            cubica = Math.Pow(Num, 1 / 3d);
+
+            Console.WriteLine("Su raíz cuadrada es:"+ Raiz);
+            Console.WriteLine("Su valor redondeado es: "+ redondeo);
+            Console.WriteLine("Su resultado elevado al cubo: "+ elevar);
+            Console.WriteLine("Su raíz cubica es: "+ cubica);
             
         }
         static void ejercicio5()

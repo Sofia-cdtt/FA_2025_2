@@ -18,8 +18,18 @@ def ejercicio3(): #Ejercicio python hecho por el profesor
     print("Multiplicación: ", (x*y))
     print("División: ", (x/y))
 
+import math #Importando la libreria math
+
 def ejercicio4():
-    weq
-ejercicio2()
+    num = float(input("Ingrese su número decimal: "))
+
+    print("Raíz 2: ", math.sqrt(num))
+    print("Redondeado: ", round(num,0))
+    print("Elevar al cubo:", math.pow(num,3))
+    print("Raíz cubica: ", num**(1/3))
+
+def ejercicio5():
+    ksaj
+ejercicio4()
 
     

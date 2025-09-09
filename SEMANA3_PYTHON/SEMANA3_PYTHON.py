@@ -29,7 +29,14 @@ def ejercicio4():
     print("Raíz cubica: ", num**(1/3))
 
 def ejercicio5():
-    ksaj
+    num = input("Ingrese un número: ")
+
+    entero = int(num)
+    deci = float(num)
+
+    print("Resto: ", (entero%2))
+    print("División: ", (entero/3))
+
 ejercicio4()
 
     

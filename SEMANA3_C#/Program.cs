@@ -10,7 +10,7 @@ namespace SEMANA3_C_
     {
         static void Main(string[] args)
         {
-            ejercicio4();
+            ejercicio5();
             Console.ReadKey();
 
 
@@ -87,7 +87,14 @@ namespace SEMANA3_C_
         }
         static void ejercicio5()
         {
+            Console.WriteLine("Ingrese un número: ");
+            string num = Console.ReadLine();
 
+            int entero = int.Parse(num);
+            double deci = double.Parse(num);
+
+            Console.WriteLine("Resto: " + (entero % 2));
+            Console.WriteLine("División" + deci / 3);
         }
         static void ejercicio6()
         {

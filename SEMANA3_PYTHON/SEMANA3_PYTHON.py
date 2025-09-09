@@ -6,6 +6,9 @@ def ejercicio1():
     #el f es igual que el $ en c#
     print(f"\n{Nombre}, Bienvenido a FA de {Carrera}")
 
+def ejercicio2():
+    print("\"\"Sofia\"\"")
+
 def ejercicio3(): #Ejercicio python hecho por el profesor
     x = int(input("Ingrese el valor de x: "))
     y = int(input("Ingrese el valor de y: "))
@@ -15,6 +18,8 @@ def ejercicio3(): #Ejercicio python hecho por el profesor
     print("Multiplicación: ", (x*y))
     print("División: ", (x/y))
 
-ejercicio3()
+def ejercicio4():
+    weq
+ejercicio2()
 
     

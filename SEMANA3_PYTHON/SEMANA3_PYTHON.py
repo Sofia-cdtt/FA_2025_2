@@ -38,9 +38,8 @@ def ejercicio5():
     print("División: ", (entero/3))
 
 def ejercicio6():
- HEAD
-    ki
-ejercicio5()
+
+
 
     cantidadSegundos = input("Ingrese la cantidad de segundos: ")
 
@@ -52,8 +51,5 @@ ejercicio5()
     print("Horas: ", (horas//3600))
     print("Minutos: ", (minutos % 3600)//60 )
     print("Segundos restantes: ", (segundosRestantes % 60))
-
-ejercicio6()
- 6b240d2 (Subiendo ejercicio 6 de c# y python)
-
     
+    ejercicio5()

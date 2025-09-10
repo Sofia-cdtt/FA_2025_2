@@ -10,10 +10,9 @@ namespace SEMANA3_C_
     {
         static void Main(string[] args)
         {
- HEAD
-            ejercicio5();
+
             ejercicio6();
-6b240d2 (Subiendo ejercicio 6 de c# y python)
+
             Console.ReadKey();
 
 
@@ -101,7 +100,7 @@ namespace SEMANA3_C_
         }
         static void ejercicio6()
         {
- HEAD
+
 
             //Declaramos variables
             int cantidadSegundos, Horas, minutos, segundosRestantes;
@@ -121,7 +120,7 @@ namespace SEMANA3_C_
             Console.WriteLine("Segundos restantes: "+ segundosRestantes);
 
 
-6b240d2 (Subiendo ejercicio 6 de c# y python)
+
 
         }
     }

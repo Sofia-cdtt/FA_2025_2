@@ -10,19 +10,20 @@ def ejercicio1():
         else:
             print("Es un adulto mayor")
 
+#yo
 def ejercicio2():
-    año = int(input("Buen día, Ingrese un año:"))
+    year = int(input("Buen día, Ingrese un año:"))
     
-    if (año % 4 == 0 and año % 100 != 0) or (año % 400 == 0):
-        print(f"El año: {año} es bisiesto")
+    if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+        print(f"El año: {year} es bisiesto")
     else:
-        print(f"El año {año} no es bisiesto. ")
+        print(f"El año {year} no es bisiesto. ")
 
     #Verificar si es par o impar
-    if año % 2 == 0:
-        print(f"El año {año} es par. ")
+    if year % 2 == 0:
+        print(f"El año {year} es par. ")
     else:
-        print(f"El año {año} es impar. ")
+        print(f"El año {year} es impar. ")
 
 def ejercicio3():
     monto_pe = float(input("Buen día, Ingrese el monto en soles (PEN): "))
@@ -36,7 +37,7 @@ def ejercicio3():
 
     opcion = input("Ingrese la opción: ").upper() # .upper() convierte a mayuscula
 
-    #Usamos match-case con letras
+    #Usamos match-case con letras (match es para estructura múltiple)
     match opcion:
         case "D":
             monto_usd = monto_pe / 3.75
@@ -47,7 +48,7 @@ def ejercicio3():
             print(f"{monto_pe:.2f} PEN = {monto_eur} EUR")
 
         case _:
-            print("Opncion inválida. Intente nuevamente. ")
+            print("Opción inválida. Intente nuevamente. ")
 
 def ejercicio4():
     import math
@@ -57,7 +58,7 @@ def ejercicio4():
     print("[1] - Área de un cuadrado")
     print("[2] - Área de un rectángulo")
     print("[3] - Área de un triángulo")
-    print("[4] - Área de un círculo")
+    print("[4] - Área de un círculo\n") #\n es salto de linea
     print("====================")
 
     opcion = int(input("Buen día, Ingrese una opción: "))

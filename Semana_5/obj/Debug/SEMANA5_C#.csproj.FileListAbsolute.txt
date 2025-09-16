@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\TRABAJO\FA_2025_2\Semana_5\bin\Debug\Semana_5.exe.config
+C:\Users\UPN\Desktop\TRABAJO\FA_2025_2\Semana_5\bin\Debug\Semana_5.exe
+C:\Users\UPN\Desktop\TRABAJO\FA_2025_2\Semana_5\bin\Debug\Semana_5.pdb
+C:\Users\UPN\Desktop\TRABAJO\FA_2025_2\Semana_5\obj\Debug\SEMANA5_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\TRABAJO\FA_2025_2\Semana_5\obj\Debug\Semana_5.exe.config
+C:\Users\UPN\Desktop\TRABAJO\FA_2025_2\Semana_5\obj\Debug\SEMANA5_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\TRABAJO\FA_2025_2\Semana_5\obj\Debug\Semana_5.exe
+C:\Users\UPN\Desktop\TRABAJO\FA_2025_2\Semana_5\obj\Debug\Semana_5.pdb

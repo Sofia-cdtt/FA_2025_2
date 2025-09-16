@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,7 +11,7 @@ namespace Semana_5
     {
         static void Main(string[] args)
         {
-            Ejercicio3();
+            Ejercicio4();
             Console.ReadKey();
         }
 
@@ -75,16 +76,43 @@ namespace Semana_5
         static void Ejercicio3()
         {
             //Declaramos variables
-            int num1;
+            int num1, suma = 0;
 
             //Desarrollo
             Console.WriteLine("Ingrese un número positivo: ");
             num1 = int.Parse(Console.ReadLine());
-            for (int i = 0; i < num1;) 
+
+            if (num1 > 0)
             {
-                Console.WriteLine("La suma de los números pares es :" + num1);
+                for (int i = 0; i <= num1; i += 2)
+                {
+                    suma += i;
+                }
+                Console.WriteLine("La suma es :" + suma);
+            }
+            else
+            {
+                Console.WriteLine("Su número es negativo.");
             }
 
         }
+
+        static void Ejercicio4()
+        {
+            //Declaramos
+            int num;
+            int suma = 0;
+
+            //Desarrollo
+            Console.WriteLine("Buen día. Ingrese la cantidad de números a ingresar: ");
+            num = int.Parse(Console.ReadLine());
+            
+            for (int i = 0; i <= num; i += 2)
+            {
+               suma += i;
+            }
+            Console.WriteLine("La suma es :" + suma);
+        }
+
     }
 }

@@ -25,5 +25,21 @@ def Ejercicio2():
         print("El triángulo Isósceles")
     else:
         print("El triángulo Escaleno")
-        
-Ejercicio2()
+
+#ESTRUCTURA FOR  
+#Ejercicios de profesor yordan      
+def Ejercicio3():
+    n = int(input("Ingrese un número: "))
+    suma = 0
+
+    print()
+
+    for i in range (1, n+1):
+        print(i)
+
+        if 1% 2 == 0:
+            suma += i #valor acumulado 
+
+    print("\nSu suma de pares es: ",suma)
+
+Ejercicio3()

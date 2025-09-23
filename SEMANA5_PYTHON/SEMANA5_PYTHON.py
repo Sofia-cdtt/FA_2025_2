@@ -42,4 +42,28 @@ def Ejercicio3():
 
     print("\nSu suma de pares es: ",suma)
 
-Ejercicio3()
+def Ejercicio4():
+    cantidad = int(input("Ingrese la cantidad de números: "))
+    ceros = pares = impares = 0
+    print()#saltodelinea
+
+    for i in range (1, cantidad+1):
+        num = int(input(f"Ingrese el número {i}: "))
+
+        if num == 0:
+            ceros += 1 #ceros ++ C#
+
+        elif num % 2 == 0:
+            pares +=1 #par ++
+
+        else:
+            impares += 1 #impar ++
+
+    print("\n # ceros: ",ceros)
+
+    print("# pares: ", pares)
+
+    print("$ impares: ", impares)
+
+
+Ejercicio4()

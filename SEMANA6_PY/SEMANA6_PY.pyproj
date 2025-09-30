@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>401b8534-7e62-466b-9ddf-f5c5ec5e6c77</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Ejercicio3.py</StartupFile>
+    <StartupFile>Ejercicio4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,7 @@
     <Compile Include="Ejercicio1.py" />
     <Compile Include="Ejercicio2.py" />
     <Compile Include="Ejercicio3.py" />
+    <Compile Include="Ejercicio4.py" />
     <Compile Include="SEMANA6_PY.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

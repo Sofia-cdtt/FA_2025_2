@@ -1,1 +1,14 @@
+# Archivos y carpetas temporales de Visual Studio
+bin/
+obj/
+*.exe
+*.dll
+*.user
+*.suo
+*.pdb
+
+# Carpetas de Python
+__pycache__/
+*.pyc
+
 .vs/

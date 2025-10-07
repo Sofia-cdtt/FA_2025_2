@@ -4,13 +4,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1f5edd49-afc0-43b6-b130-24593c4ebd4a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SEMANA8_PYTHON.py</StartupFile>
+    <StartupFile>Ejercicio5.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>SEMANA8-PYTHON</Name>
     <RootNamespace>SEMANA8-PYTHON</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,6 +22,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Ejercicio2.py" />
+    <Compile Include="Ejercicio3.py" />
+    <Compile Include="Ejercicio4.py" />
+    <Compile Include="Ejercicio5.py" />
+    <Compile Include="Ejercicio6.py" />
     <Compile Include="SEMANA8_PYTHON.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

@@ -1,11 +1,11 @@
 # Ejercicio 2
-# Realizar un programa que te permita sumar 2 números, creando un método
-# con retorno y con parámetros.
+# Realizar un programa que te permita sumar 2 nï¿½meros, creando un mï¿½todo
+# con retorno y con parï¿½metros.
 def suma(c,d):
     return c+d
     
 
-c = int(input("Ingrese el primer número: "))
-d = int(input("Ingrese el segundo número: "))
+c = int(input("Ingrese el primer nï¿½mero: "))
+d = int(input("Ingrese el segundo nï¿½mero: "))
 
 print("\nLa suma es: ",suma(c+d))

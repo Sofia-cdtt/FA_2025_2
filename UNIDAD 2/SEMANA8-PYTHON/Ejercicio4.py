@@ -1,9 +1,9 @@
 # Ejercicio 4
-# Crear un programa que realice la suma de 2 números enteros, creando un
-# método con retorno sin parámetros.
+# Crear un programa que realice la suma de 2 nï¿½meros enteros, creando un
+# mï¿½todo con retorno sin parï¿½metros.
 def suma():
-    a = int(input("Ingrese el primer número: "))
-    b = int(input("Ingrese el segundo número: "))
+    a = int(input("Ingrese el primer nï¿½mero: "))
+    b = int(input("Ingrese el segundo nï¿½mero: "))
     return a+b
 
 print("\nLa suma es: ",suma())

@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMANA11_CSHARD_ISAIAS", "U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba11", "UNIDAD 3\SEMANA_11\Prueba11\Prueba11.csproj", "{E94A5181-5ACD-4472-B73E-11FD06DB228B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMANA11_SCHARD-YORDAN", "UNIDAD 3\SEMANA_11\SEMANA11_SCHARD-YORDAN\SEMANA11_SCHARD-YORDAN.csproj", "{C43DB9BA-5AA1-47B6-86BE-B3F0DA71EE7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{E94A5181-5ACD-4472-B73E-11FD06DB228B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E94A5181-5ACD-4472-B73E-11FD06DB228B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E94A5181-5ACD-4472-B73E-11FD06DB228B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43DB9BA-5AA1-47B6-86BE-B3F0DA71EE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43DB9BA-5AA1-47B6-86BE-B3F0DA71EE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43DB9BA-5AA1-47B6-86BE-B3F0DA71EE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43DB9BA-5AA1-47B6-86BE-B3F0DA71EE7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

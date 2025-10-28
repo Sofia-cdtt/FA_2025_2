@@ -13,3 +13,11 @@ C:\Users\UPN\Desktop\FUNDA\FA_2025_2\SEMANA3_C#\obj\Debug\SEMANA3_C#.exe.config
 C:\Users\UPN\Desktop\FUNDA\FA_2025_2\SEMANA3_C#\obj\Debug\SEMANA3_C#.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\FUNDA\FA_2025_2\SEMANA3_C#\obj\Debug\SEMANA3_C#.exe
 C:\Users\UPN\Desktop\FUNDA\FA_2025_2\SEMANA3_C#\obj\Debug\SEMANA3_C#.pdb
+C:\Users\UPN\Desktop\FUNDA\FA_2025_2\UNIDAD 1\SEMANA3_CSHARP\bin\Debug\SEMANA3_C#.exe.config
+C:\Users\UPN\Desktop\FUNDA\FA_2025_2\UNIDAD 1\SEMANA3_CSHARP\bin\Debug\SEMANA3_C#.exe
+C:\Users\UPN\Desktop\FUNDA\FA_2025_2\UNIDAD 1\SEMANA3_CSHARP\bin\Debug\SEMANA3_C#.pdb
+C:\Users\UPN\Desktop\FUNDA\FA_2025_2\UNIDAD 1\SEMANA3_CSHARP\obj\Debug\SEMANA3_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FUNDA\FA_2025_2\UNIDAD 1\SEMANA3_CSHARP\obj\Debug\SEMANA3_C#.exe.config
+C:\Users\UPN\Desktop\FUNDA\FA_2025_2\UNIDAD 1\SEMANA3_CSHARP\obj\Debug\SEMANA3_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FUNDA\FA_2025_2\UNIDAD 1\SEMANA3_CSHARP\obj\Debug\SEMANA3_C#.exe
+C:\Users\UPN\Desktop\FUNDA\FA_2025_2\UNIDAD 1\SEMANA3_CSHARP\obj\Debug\SEMANA3_C#.pdb

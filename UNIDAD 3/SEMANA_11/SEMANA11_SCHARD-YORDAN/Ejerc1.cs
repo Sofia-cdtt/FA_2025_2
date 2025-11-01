@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SEMANA11_SCHARD_YORDAN
 {
-    internal class Program
+    internal class Ejerc1
     {
         static void Main(string[] args)
         {

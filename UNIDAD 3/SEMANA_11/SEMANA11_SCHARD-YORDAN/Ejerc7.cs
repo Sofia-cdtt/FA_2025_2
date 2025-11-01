@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SEMANA11_SCHARD_YORDAN
 {
-    internal class Ejer7
+    internal class Ejerc7
     {
         static void Main(string[] args) 
         {
@@ -17,23 +17,23 @@ namespace SEMANA11_SCHARD_YORDAN
             Console.Write("Ingrese la cantidad de números: ");
             int cant = int.Parse(Console.ReadLine());
 
-            int[] numeros = new int[cant];
+            int[] números = new int[cant];
             Random rnd = new Random();
 
             Console.WriteLine("\nLista aleatoria: ");
-            for (int i = 0; i < numeros.Length; i++) 
+            for (int i = 0; i < números.Length; i++) 
             {
-                numeros[i] = rnd.Next(1,51);
-                Console.WriteLine(numeros[i]);
+                números[i] = rnd.Next(1,51);
+                Console.WriteLine(números[i]);
             }
 
             Console.Write("\nIngrese el número a buscar: ");
             int buscar = int.Parse(Console.ReadLine());
 
             bool b = false;
-            for (int i = 0; i<numeros.Length; i++) 
+            for (int i = 0; i<números.Length; i++) 
             {
-                if (numeros[i] == buscar)
+                if (números[i] == buscar)
                 {
                     b = true;
                 }

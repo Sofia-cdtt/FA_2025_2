@@ -34,7 +34,7 @@ namespace SEMANA11_CSHARD_ISAIAS
             // edades = new byte[cantidadPersonas];
 
 
-            //Para asinar lo q contiene un arreglo
+            //Para asignar lo q contiene un arreglo
 
             string[] Nombres = new string[5] {"Juan", "Ricardo", "Maria", "Job", "Julia" };
 

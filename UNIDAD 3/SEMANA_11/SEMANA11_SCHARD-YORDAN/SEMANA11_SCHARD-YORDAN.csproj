@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SEMANA11_SCHARD_YORDAN.Ejer7</StartupObject>
+    <StartupObject>SEMANA11_SCHARD_YORDAN.Ejerc8</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,13 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ejer7.cs" />
+    <Compile Include="Ejerc7.cs" />
     <Compile Include="Ejerc2.cs" />
     <Compile Include="Ejerc3.cs" />
     <Compile Include="Ejerc4.cs" />
     <Compile Include="Ejerc5.cs" />
     <Compile Include="Ejerc6.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Ejerc1.cs" />
+    <Compile Include="Ejerc8.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

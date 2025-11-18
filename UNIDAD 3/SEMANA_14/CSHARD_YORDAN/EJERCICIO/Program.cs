@@ -141,7 +141,7 @@ namespace EJERCICIO
             Console.WriteLine("\nOrdenando: "+n);
 
             Console.ResetColor();
-
+            
 
             Console.ReadKey();
         }
